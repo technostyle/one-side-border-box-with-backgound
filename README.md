@@ -1,0 +1,1 @@
+One line curved border box with background without wrapper
